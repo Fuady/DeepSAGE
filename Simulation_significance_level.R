@@ -30,7 +30,7 @@ sim_theta <- 0.15
 N = n1 + n2 + n3
 
 
-foreach(r = 1:2) %dopar% {
+foreach(r = 1:10000) %dopar% {
   print(r)
   set.seed(r)
   
