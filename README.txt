@@ -2,10 +2,10 @@ Title:
 Statistical Method for Modelling Sequencing Data from Different Technologies in Longitudinal Studies with Application to Huntington Disease 
 
 Authors:
-Angga M. Fuady* , Department of Biomedical Data Sciences, Leiden University Medical Center, the Netherlands
-Willeke M. C. van Roon-Mom, Department Human Genetics, Leiden University Medical Center,  the Netherlands
-Szymon M. Kielbasa, Department of Biomedical Data Sciences, Leiden University Medical Center, the Netherlands
-Hae-Won Uh, Department of Biostatistics and Research Support, Div. Julius Centrum, University Medical Center Utrecht, The Netherlands
+Angga M. Fuady* , Department of Biomedical Data Sciences, Leiden University Medical Center, Netherlands
+Willeke M. C. van Roon-Mom, Department Human Genetics, Leiden University Medical Center,  Netherlands
+Szymon M. Kielbasa, Department of Biomedical Data Sciences, Leiden University Medical Center, Netherlands
+Hae-Won Uh, Department of Biostatistics and Research Support, Div. Julius Centrum, University Medical Center Utrecht, Netherlands
 Jeanine J. Houwing-Duistermaat, Department of Statistics, University of Leeds, United Kingdom
 
 * The author that mainly responsible for writing the code
